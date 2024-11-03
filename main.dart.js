@@ -31437,7 +31437,7 @@ A.tZ.prototype={
 af(){return new A.CY()}}
 A.CY.prototype={
 O(a){var s=null,r=t.w,q=t.E
-return A.iS(A.a([A.cG("assets/birthday.png",B.hC,A.bF(a,B.ah,r).w.a.b/3,A.bF(a,B.ah,r).w.a.a),new A.eh(B.xV,A.jD(B.uk,A.a([A.kt(s,s,s,s,B.uE,A.bF(a,B.ah,r).w.a.b/2,s,s,400),A.rO(10,A.cG("assets/gift.png",s,260,s),s,s,s,-30,s,s),A.rO(s,A.iS(A.a([A.kt(s,A.fC("Wishing you a year filled with reasons to smile, and 99% of them involve me\nMay all your dreams come true, except for any dream where I\u2019m not included",A.a84().$3$color$fontSize$fontWeight(B.i,14,B.by)),s,s,s,s,s,s,300),A.ie(s,12,s),A.fC("Happy",A.a84().$3$color$fontSize$fontWeight(B.i,26,B.by)),new A.eh(B.xS,A.fC("Birthday",A.aqx().$2$color$fontSize(B.x_,36)),s),new A.eh(B.xU,A.fC("Love \u2661 \ufe0e",A.a84().$3$color$fontSize$fontWeight(B.i,26,B.by)),s)],q),B.ai,B.Y,B.a6),s,s,30,s,120,s)],q),B.aJ),s),B.FO],q),B.aj,B.Y,B.a6)}}
+return A.iS(A.a([A.cG("assets/birthday.png",B.hC,A.bF(a,B.ah,r).w.a.b/3,A.bF(a,B.ah,r).w.a.a),new A.eh(B.xV,A.jD(B.uk,A.a([A.kt(s,s,s,s,B.uE,A.bF(a,B.ah,r).w.a.b/2,s,s,400),A.rO(10,A.cG("assets/gift.png",s,260,s),s,s,s,-30,s,s),A.rO(40,A.iS(A.a([A.kt(s,A.fC("Wishing you a year filled with reasons to smile, and 99% of them involve me\nMay all your dreams come true, except for any dream where I\u2019m not included",A.a84().$3$color$fontSize$fontWeight(B.i,14,B.by)),s,s,s,s,s,s,300),A.ie(s,18,s),A.fC("Happy",A.a84().$3$color$fontSize$fontWeight(B.i,26,B.by)),new A.eh(B.xS,A.fC("Birthday",A.aqx().$2$color$fontSize(B.x_,36)),s),new A.eh(B.xU,A.fC("Love \u2661 \ufe0e",A.a84().$3$color$fontSize$fontWeight(B.i,26,B.by)),s)],q),B.ai,B.Y,B.a6),s,s,30,s,s,s)],q),B.aJ),s),B.FO],q),B.aj,B.Y,B.a6)}}
 A.YP.prototype={
 gA(a){var s=this,r=s.d
 return r==null?s.d=B.d.T(s.a,s.b,s.c):r},
