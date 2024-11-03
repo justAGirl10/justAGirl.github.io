@@ -31439,7 +31439,7 @@ A.CY.prototype={
 O(a){var s,r=null,q=t.w,p=A.cG("assets/birthday.png",B.hC,A.bx(a,B.af,q).w.a.b/3,A.bx(a,B.af,q).w.a.a),o=A.bx(a,B.af,q).w
 q=A.bx(a,B.af,q).w
 s=t.E
-return A.iS(A.a([p,A.hg(new A.eh(B.xW,A.jD(B.ul,A.a([A.kt(r,A.iS(A.a([A.kt(r,A.fC("Wishing you a year filled with reasons to smile, and 99% of them involve me\nMay all your dreams come true, except for any dream where \nI\u2019m not included",A.a84().$3$color$fontSize$fontWeight(B.i,14,B.by)),r,r,r,r,r,r,300),A.hg(r,18,r),A.fC("Happy",A.a84().$3$color$fontSize$fontWeight(B.i,26,B.by)),new A.eh(B.xT,A.fC("Birthday",A.aqx().$2$color$fontSize(B.x0,36)),r),new A.eh(B.xV,A.fC("Love \u2661 \ufe0e",A.a84().$3$color$fontSize$fontWeight(B.i,26,B.by)),r)],s),B.ai,B.nU,B.a6),r,r,B.uF,q.a.b/2,r,new A.bg(40,50,0,0),400),A.Bp(10,A.cG("assets/gift.png",r,260,r),r,r,r,-30,r,r)],s),B.aJ),r),o.a.b/2,r),B.FO],s),B.aj,B.a2,B.a6)}}
+return A.iS(A.a([p,A.hg(new A.eh(B.xW,A.jD(B.ul,A.a([A.kt(r,A.iS(A.a([A.kt(r,A.fC("Wishing you a year filled with reasons to smile, and 99% of them involve me\nMay all your dreams come true, except for any dream where I\u2019m not included",A.a84().$3$color$fontSize$fontWeight(B.i,14,B.by)),r,r,r,r,r,r,300),A.hg(r,18,r),A.fC("Happy",A.a84().$3$color$fontSize$fontWeight(B.i,26,B.by)),new A.eh(B.xT,A.fC("Birthday",A.aqx().$2$color$fontSize(B.x0,36)),r),new A.eh(B.xV,A.fC("Love \u2661 \ufe0e",A.a84().$3$color$fontSize$fontWeight(B.i,26,B.by)),r)],s),B.ai,B.nU,B.a6),r,r,B.uF,q.a.b/2,r,new A.bg(50,70,0,0),400),A.Bp(10,A.cG("assets/gift.png",r,260,r),r,r,r,-30,r,r)],s),B.aJ),r),o.a.b/2,r),B.FO],s),B.aj,B.a2,B.a6)}}
 A.YP.prototype={
 gA(a){var s=this,r=s.d
 return r==null?s.d=B.d.T(s.a,s.b,s.c):r},
